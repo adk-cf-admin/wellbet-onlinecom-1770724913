@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://wellbet-online.com/
+Sitemap: https://wellbet-online.com/sitemap.xml
